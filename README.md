@@ -3,7 +3,7 @@
 
 *git add awesome_page
 
-*git commit -m
+*git commit -m 
 
 *git push origin master
 
